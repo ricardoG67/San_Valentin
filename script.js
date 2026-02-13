@@ -43,9 +43,9 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "¿Estás seguro/a?",
+    "¿Estás segura?",
     "Porfis, mona 🥺",
-    "No me hagas esto :(",
+    "No me hagas esto, peluda :(",
     "Me estás rompiendo el corazón",
     "Voy a llorar...",
   ];
